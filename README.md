@@ -3,7 +3,7 @@
 
 Sinh viên thực hiện
 1. Nguyễn Hoài Phương - 21520408
-2. Phạm Ngọc Thiện - 21522267
+2. Phạm Ngọc Thiện - 21522627
 3. Huỳnh Nguyễn Uyển Nhi
 4. Lê Đoàn Trà My
 
