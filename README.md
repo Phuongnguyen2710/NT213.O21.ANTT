@@ -10,7 +10,7 @@
 ## Giảng viên hướng dẫn: Ths. Nguyễn Công Danh
 
 ## Giới thiệu
-Đây là repository chứa mã nguồn và tài liệu liên quan đến đồ án "Cơ chế hoạt động của mã độc" của nhóm.
+Đây là repository chứa mã nguồn và tài liệu liên quan đến đồ án "Bảo mật Web và ứng dụng" của nhóm.
 
 
 
