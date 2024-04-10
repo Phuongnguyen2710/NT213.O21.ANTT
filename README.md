@@ -7,7 +7,7 @@
 3. Huỳnh Nguyễn Uyển Nhi - 21522424
 4. Lê Đoàn Trà My - 21521149
  
-## Giảng viên hướng dẫn: Ths. Nguyễn Công Danh
+## Giảng viên hướng dẫn: Th.S Nguyễn Công Danh
 
 ## Giới thiệu
 Đây là repository chứa mã nguồn và tài liệu liên quan đến đồ án "Bảo mật Web và ứng dụng" của nhóm.
