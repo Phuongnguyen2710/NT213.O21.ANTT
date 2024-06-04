@@ -1,0 +1,14 @@
+.*<script.*>.*
+.*%3Cscript.*%3E.*
+.*%0d%0a.*
+.*<!.*ENTITY.*SYSTEM.*
+.*%27.*;.*
+.*php://.*
+.*\.\..*
+/.*etc.*
+.*http[s]?://.*
+.*'or 1=1;--.*
+.*;ls.*
+.*/etc.*
+.*<!ENTITY xxe SYSTEM.*
+.*Cookie:.*

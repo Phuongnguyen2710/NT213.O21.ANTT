@@ -1,0 +1,43 @@
+date,ip,path,body,cookie,is_abnormal
+2024-06-03 08:12:35.924136,127.0.0.1,cmd.php?input=nhom3test,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.54548013
+2024-06-03 08:12:39.053926,127.0.0.1,,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.0004321733
+2024-06-03 08:12:56.267472,127.0.0.1,get.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:12:58.245581,127.0.0.1,get.php?input=%3Cscript%3Ealert%281%29%3C%2Fscript%3E,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.84318817
+2024-06-03 08:13:02.804773,127.0.0.1,xxe.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:13:06.464168,127.0.0.1,xxe.php,"&lt;user&gt;
+  &lt;name&gt;test&lt;/name&gt;
+  &lt;bio&gt;test&lt;/bio&gt;
+&lt;/user&gt;",ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.782949
+2024-06-03 08:13:09.916002,127.0.0.1,xxe.php,"&lt;user&gt;
+  &lt;name&gt;yoden&lt;/name&gt;
+  &lt;bio&gt;&amp;pass;&lt;/bio&gt;
+&lt;/user&gt;",ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.8240664
+2024-06-03 08:13:13.958272,127.0.0.1,xxe.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:13:15.680157,127.0.0.1,sqli.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:13:21.531764,127.0.0.1,sqli.php?input=phuong,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.56860936
+2024-06-03 08:13:23.487005,127.0.0.1,sqli.php?input=%27or+1%3D1%3B--,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.5975163
+2024-06-03 08:13:29.157138,127.0.0.1,path.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:13:30.285877,127.0.0.1,path.php?input=index.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.5816968
+2024-06-03 08:13:31.613356,127.0.0.1,path.php?input=/etc/passwd,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.81855774
+2024-06-03 08:13:35.943227,127.0.0.1,path.php?input=php://filter/convert.base64-encode/resource=index.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.84693724
+2024-06-03 08:13:40.714227,127.0.0.1,cmd.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:13:42.188906,127.0.0.1,cmd.php?input=nhom3test,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.54548013
+2024-06-03 08:13:43.756383,127.0.0.1,cmd.php?input=;cat%20/etc/passwd,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.8201501
+2024-06-03 08:15:12.025223,127.0.0.1,,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.0004321733
+2024-06-03 08:15:27.186712,127.0.0.1,get.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:15:29.512333,127.0.0.1,get.php?input=aaaaaa,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.5175753
+2024-06-03 08:15:31.276272,127.0.0.1,get.php?input=%3Cscript%3Ealert%281%29%3C%2Fscript%3E,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.84318817
+2024-06-03 08:15:37.031520,127.0.0.1,xxe.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:15:39.702083,127.0.0.1,xxe.php,"&lt;user&gt;
+  &lt;name&gt;yoden&lt;/name&gt;
+  &lt;bio&gt;&amp;pass;&lt;/bio&gt;
+&lt;/user&gt;",ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.8240664
+2024-06-03 08:15:41.768046,127.0.0.1,xxe.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:15:43.810561,127.0.0.1,sqli.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:15:45.083203,127.0.0.1,sqli.php?input=%27or+1%3D1%3B--,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.5975163
+2024-06-03 08:15:49.528207,127.0.0.1,path.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:15:51.563557,127.0.0.1,path.php?input=/etc/passwd,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.81855774
+2024-06-03 08:15:53.043699,127.0.0.1,path.php?input=php://filter/convert.base64-encode/resource=index.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.84693724
+2024-06-03 08:15:57.318617,127.0.0.1,cmd.php,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0
+2024-06-03 08:15:59.212673,127.0.0.1,cmd.php?input=;cat%20/etc/passwd,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.8201501
+2024-06-03 08:16:01.009691,127.0.0.1,cmd.php?input=;ls,,ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;,0.58046436

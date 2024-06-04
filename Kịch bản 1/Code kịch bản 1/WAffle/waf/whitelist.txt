@@ -1,0 +1,7 @@
+http://localhost:8080/post.php
+http://localhost:8080/get.php
+http://localhost:8080/xxe.php
+http://localhost:8080/sqli.php
+http://localhost:8080/path.php
+http://localhost:8080/cmd.php
+

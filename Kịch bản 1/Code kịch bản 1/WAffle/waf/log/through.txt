@@ -1,0 +1,33 @@
+{'date': '2024-06-03 08:12:35.924136', 'ip': '127.0.0.1', 'path': 'cmd.php?input=nhom3test', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.54548013}
+{'date': '2024-06-03 08:12:39.053926', 'ip': '127.0.0.1', 'path': '', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.0004321733}
+{'date': '2024-06-03 08:12:56.267472', 'ip': '127.0.0.1', 'path': 'get.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:12:58.245581', 'ip': '127.0.0.1', 'path': 'get.php?input=%3Cscript%3Ealert%281%29%3C%2Fscript%3E', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.84318817}
+{'date': '2024-06-03 08:13:02.804773', 'ip': '127.0.0.1', 'path': 'xxe.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:13:06.464168', 'ip': '127.0.0.1', 'path': 'xxe.php', 'body': '&lt;user&gt;\r\n  &lt;name&gt;test&lt;/name&gt;\r\n  &lt;bio&gt;test&lt;/bio&gt;\r\n&lt;/user&gt;', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.782949}
+{'date': '2024-06-03 08:13:09.916002', 'ip': '127.0.0.1', 'path': 'xxe.php', 'body': '&lt;user&gt;\r\n  &lt;name&gt;yoden&lt;/name&gt;\r\n  &lt;bio&gt;&amp;pass;&lt;/bio&gt;\r\n&lt;/user&gt;', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.8240664}
+{'date': '2024-06-03 08:13:13.958272', 'ip': '127.0.0.1', 'path': 'xxe.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:13:15.680157', 'ip': '127.0.0.1', 'path': 'sqli.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:13:21.531764', 'ip': '127.0.0.1', 'path': 'sqli.php?input=phuong', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.56860936}
+{'date': '2024-06-03 08:13:23.487005', 'ip': '127.0.0.1', 'path': 'sqli.php?input=%27or+1%3D1%3B--', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.5975163}
+{'date': '2024-06-03 08:13:29.157138', 'ip': '127.0.0.1', 'path': 'path.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:13:30.285877', 'ip': '127.0.0.1', 'path': 'path.php?input=index.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.5816968}
+{'date': '2024-06-03 08:13:31.613356', 'ip': '127.0.0.1', 'path': 'path.php?input=/etc/passwd', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.81855774}
+{'date': '2024-06-03 08:13:35.943227', 'ip': '127.0.0.1', 'path': 'path.php?input=php://filter/convert.base64-encode/resource=index.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.84693724}
+{'date': '2024-06-03 08:13:40.714227', 'ip': '127.0.0.1', 'path': 'cmd.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:13:42.188906', 'ip': '127.0.0.1', 'path': 'cmd.php?input=nhom3test', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.54548013}
+{'date': '2024-06-03 08:13:43.756383', 'ip': '127.0.0.1', 'path': 'cmd.php?input=;cat%20/etc/passwd', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.8201501}
+{'date': '2024-06-03 08:15:12.025223', 'ip': '127.0.0.1', 'path': '', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.0004321733}
+{'date': '2024-06-03 08:15:27.186712', 'ip': '127.0.0.1', 'path': 'get.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:15:29.512333', 'ip': '127.0.0.1', 'path': 'get.php?input=aaaaaa', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.5175753}
+{'date': '2024-06-03 08:15:31.276272', 'ip': '127.0.0.1', 'path': 'get.php?input=%3Cscript%3Ealert%281%29%3C%2Fscript%3E', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.84318817}
+{'date': '2024-06-03 08:15:37.031520', 'ip': '127.0.0.1', 'path': 'xxe.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:15:39.702083', 'ip': '127.0.0.1', 'path': 'xxe.php', 'body': '&lt;user&gt;\r\n  &lt;name&gt;yoden&lt;/name&gt;\r\n  &lt;bio&gt;&amp;pass;&lt;/bio&gt;\r\n&lt;/user&gt;', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.8240664}
+{'date': '2024-06-03 08:15:41.768046', 'ip': '127.0.0.1', 'path': 'xxe.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:15:43.810561', 'ip': '127.0.0.1', 'path': 'sqli.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:15:45.083203', 'ip': '127.0.0.1', 'path': 'sqli.php?input=%27or+1%3D1%3B--', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.5975163}
+{'date': '2024-06-03 08:15:49.528207', 'ip': '127.0.0.1', 'path': 'path.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:15:51.563557', 'ip': '127.0.0.1', 'path': 'path.php?input=/etc/passwd', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.81855774}
+{'date': '2024-06-03 08:15:53.043699', 'ip': '127.0.0.1', 'path': 'path.php?input=php://filter/convert.base64-encode/resource=index.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.84693724}
+{'date': '2024-06-03 08:15:57.318617', 'ip': '127.0.0.1', 'path': 'cmd.php', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0}
+{'date': '2024-06-03 08:15:59.212673', 'ip': '127.0.0.1', 'path': 'cmd.php?input=;cat%20/etc/passwd', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.8201501}
+{'date': '2024-06-03 08:16:01.009691', 'ip': '127.0.0.1', 'path': 'cmd.php?input=;ls', 'body': '', 'cookie': 'ajs_anonymous_id=5400991b-0412-43de-b1e6-09a99ffe183f;', 'is_abnormal': 0.58046436}
