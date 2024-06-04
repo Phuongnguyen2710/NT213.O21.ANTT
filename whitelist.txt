@@ -25,4 +25,3 @@ http://ocsp.pki.goog/gts1c3
 http://r3.o.lencr.org/
 http://ocsp.digicert.com/
 
-http://192.168.124.173/dvwa/login.php?username=admin&password=password&Login=Login
